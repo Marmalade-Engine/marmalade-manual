@@ -1,6 +1,5 @@
 name: marmalade-engine
-version: ~
+version: true
 title: Marmalade Engine
 nav:
   - modules/ROOT/nav.adoc
-  - modules/graphics/nav.adoc

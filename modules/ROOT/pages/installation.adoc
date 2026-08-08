@@ -1,1 +1,4 @@
 = Installing Marmalade
+
+See the `dev` branch for up-to-date documentation.
+
