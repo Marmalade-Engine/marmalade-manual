@@ -27,8 +27,6 @@ The Installation process for MacOs involves the following steps:
 
 * Execute the universal app
 
-IMPORTANT: Some instances of Marmalade, especially nightly builds may not be notarised, because of this, you will need to allow Marmalade to be ran through Privacy & Security in you Mac settings
-
 == Linux
 
 There are multiple methods for installing the Marmalade Engine on Linux.
