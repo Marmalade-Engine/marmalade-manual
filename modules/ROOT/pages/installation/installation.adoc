@@ -38,7 +38,7 @@ To install via AppImage, please follow the following steps:
 
 * Download the latest/desired AppImage from the the https://marmaladeengine.com/download[Downloads] page of the Marmalade Website.
 
-* In any Terminal, run `sudo chmod +x _pathToAppImage_`
+* In any Terminal, run `chmod +x _pathToAppImage_`
 
 * Then run the AppImage `./_pathToAppImage_` to open the Marmalade Engine
 
