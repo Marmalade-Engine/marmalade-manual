@@ -1,6 +1,6 @@
 = Installing Marmalade
 
-=== Windows
+== Windows
 
 The installation process for Windows involves the following steps:
 
@@ -19,7 +19,7 @@ NOTE: It is *required* to have at least the *Marmalade Engine* module option sel
 
 image:installation/marm-win-installer3.png[Windows Installer Optional Selections]
 
-=== MacOS
+== MacOS
 
 The Installation process for MacOs involves the following steps:
 
@@ -29,11 +29,11 @@ The Installation process for MacOs involves the following steps:
 
 IMPORTANT: Some instances of Marmalade, especially nightly builds may not be notarised, because of this, you will need to allow Marmalade to be ran through Privacy & Security in you Mac settings
 
-=== Linux
+== Linux
 
 There are multiple methods for installing the Marmalade Engine on Linux.
 
-.AppImage
+=== AppImage
 
 To install via AppImage, please follow the following steps:
     * Download the latest/desired AppImage from the the https://marmaladeengine.com/download[Downloads] page of the Marmalade Website.
