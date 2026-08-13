@@ -1,0 +1,54 @@
+= Installing Marmalade
+
+=== Windows
+
+The installation process for Windows involves the following steps:
+
+* Download the latest/desired engine installer executable from the the https://marmaladeengine.com/download[Downloads] page of the Marmalade Website.
+* After opening the select which user you want to install Marmalade Engine for. If you are unsure, leave it as default (current user).
+
+image:installation/marm-win-installer1.png[Windows Installer User Selection]
+
+* Next, confirm the path that the engine will be installed at, and select which engine modules you wish to install
+
+image:installation/marm-win-installer2.png[Windows Installer Path and Modules]
+
+NOTE: It is *required* to have at least the *Marmalade Engine* module option selected
+
+* Finally, select the optional choices, it is recommended to keep the default changes.
+
+image:installation/marm-win-installer3.png[Windows Installer Optional Selections]
+
+=== MacOS
+
+The Installation process for MacOs involves the following steps:
+
+* Download the latest/desired universal engine installer from the the https://marmaladeengine.com/download[Downloads] page of the Marmalade Website.
+
+* Execute the universal app
+
+IMPORTANT: Some instances of Marmalade, especially nightly builds may not be notarised, because of this, you will need to allow Marmalade to be ran through Privacy & Security in you Mac settings
+
+=== Linux
+
+There are multiple methods for installing the Marmalade Engine on Linux.
+
+.AppImage
+
+To install via AppImage, please follow the following steps:
+    * Download the latest/desired AppImage from the the https://marmaladeengine.com/download[Downloads] page of the Marmalade Website.
+
+    * In any Terminal, run `sudo chmod +x _pathToAppImage_`
+
+    * Then run the AppImage `./_pathToAppImage_` to open the Marmalade Engine
+
+// .Tarball
+
+//     * lorem ipsum
+
+// .Package Manager
+
+//     * lorem ipsum
+
+
+// === Building from Source

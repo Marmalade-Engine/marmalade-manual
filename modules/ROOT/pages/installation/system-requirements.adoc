@@ -1,0 +1,41 @@
+= System Requirements
+
+Whilst we currently do not have any specific system or hardware, we aim to target at _least_ Windows 7+, OpenGL 3+
+
+
+// This page details the system requirements required to install and run the Marmalade Engine.
+
+// === Hardware and Operating System
+
+// .Minimum Requirements
+// [cols="2,2,1,2,1,1", options="header"]
+// |===
+// | Operating System | Version | CPU | GPU | RAM | Storage
+// | Windows | | | | |
+// | MacOS   | | | | | 
+// | Linux   | | | | |
+
+// |=== 
+
+// .Recommended Requirements
+// [cols="2,2,1,2,1,1", options="header"]
+// |===
+// | Operating System | Version | CPU | GPU | RAM | Storage
+// | Windows | | | | |
+// | MacOS   | | | | | 
+// | Linux   | | | | |
+// |===
+
+.Console
+
+Marmalade Engine does not currently support consoles.
+
+.Web
+
+Marmalade Engine does not currently support web.
+
+.XR
+
+Marmalade Engine does not currently support XR platforms.
+
+// === Graphics and Drivers

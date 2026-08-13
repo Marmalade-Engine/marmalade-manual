@@ -1,1 +1,9 @@
-* xref:installation.adoc[]
+* Installation
+** xref:installation/system-requirements.adoc[]
+** xref:installation/installation.adoc[]
+
+* Getting Started
+** xref:getting-started/creating-your-first-project.adoc[]
+** xref:getting-started/editor-controls.adoc[]
+** xref:getting-started/navigating-the-editor-workspace.adoc[]
+** xref:getting-started/importing-assets.adoc[]
